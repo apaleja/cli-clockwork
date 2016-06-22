@@ -1,4 +1,4 @@
-Clockwork-cli (This package is under active Development | Issues & PR are welcome )
+Clockwork-cli
 =============
 
 **[Clockwork](http://github.com/itsgoingd/clockwork)** - is a tool for debugging and profiling PHP applications.
