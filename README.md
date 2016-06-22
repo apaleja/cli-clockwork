@@ -13,11 +13,11 @@ Clockwork-cli
 
 * Install clockwork-cli via composer for your project:
 ```
-composer require ptrofimov/clockwork-cli:*
+composer require apaleja/clockwork-cli:*
 ```
 * Or install clockwork-cli globally:
 ```
-composer global require ptrofimov/clockwork-cli:*
+composer global require apaleja/clockwork-cli:*
 ```
 * You could also register Artisan command
 ```
@@ -41,13 +41,13 @@ Artisan::add(new Clockwork\Cli\Laravel\Command);
 
 ## Screenshots
 
-![Clockwork Cli Trace](https://raw.githubusercontent.com/ptrofimov/clockwork-cli/master/screenshots/clockwork-cli-trace.png)
+![Clockwork Cli Trace](https://raw.githubusercontent.com/apaleja/clockwork-cli/master/screenshots/clockwork-cli-trace.png)
 
-![Clockwork Cli Details](https://raw.githubusercontent.com/ptrofimov/clockwork-cli/master/screenshots/clockwork-cli-details.png)
+![Clockwork Cli Details](https://raw.githubusercontent.com/apaleja/clockwork-cli/master/screenshots/clockwork-cli-details.png)
 
 ## License
 
-Copyright (c) 2014 Petr Trofimov
+Copyright (c) 2016
 
 MIT License
 
