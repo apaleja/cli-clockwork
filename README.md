@@ -1,4 +1,4 @@
-Clockwork-cli
+Clockwork-cli (Laravel 4 / Laravel 5.*)
 =============
 
 **[Clockwork](http://github.com/itsgoingd/clockwork)** - is a tool for debugging and profiling PHP applications.
