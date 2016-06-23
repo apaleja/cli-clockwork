@@ -1,17 +1,17 @@
 {
     "name": "apaleja/clockwork-cli",
     "description": "Command-line interface for Clockwork, the tool for debugging and profiling PHP applications",
-    "keywords": ["clockwork", "cli", "laravel", "debugging", "profiling", "logging"],
+    "keywords": ["clockwork", "cli", "laravel-4", "#laravel-5.*", "debugging", "profiling", "logging"],
     "license": "MIT",
     "homepage": "http://github.com/apleja/clockwork-cli",
     "authors": [
         {
-            "name": "Petr Trofimov",
-            "email": "petrofimov@yandex.ru"
+            "name": "Anand Paleja",
+            "email": "adrock4u@gmail.com"
         }
     ],
     "support": {
-        "email": "petrofimov@yandex.ru",
+        "email": "adrock4u@gmail.com",
         "source": "https://github.com/apaleja/clockwork-cli",
         "issues": "https://github.com/apaleja/clockwork-cli/issues"
     },
